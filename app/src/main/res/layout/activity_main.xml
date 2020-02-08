@@ -6,11 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TimePicker android:id="@+id/timePicker1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:timePickerMode="clock"
-        tools:ignore="MissingConstraints" />
+<!--    <TimePicker android:id="@+id/timePicker1"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:timePickerMode="clock"-->
+<!--        tools:ignore="MissingConstraints" />-->
 
 <!--    <com.alamkanak.weekview.WeekView-->
 <!--        android:id="@+id/weekView"-->
@@ -28,5 +28,11 @@
 <!--        app:dayBackgroundColor="#05000000"-->
 <!--        app:todayBackgroundColor="#1848adff"-->
 <!--        app:headerColumnBackground="#ffffffff"/>-->
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/pictureView"></androidx.appcompat.widget.AppCompatImageView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
