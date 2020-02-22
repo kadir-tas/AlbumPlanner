@@ -1,0 +1,64 @@
+
+jsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(©õ¸‡8åâƒÌ‚.
+hsquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+Isquid:S00108ý")Either remove or fill this block of code.(Ãôþ•8¯†’’‚.
+jsquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¤º²
+Ksquid:S1481Ú",Remove this unused "options" local variable.(°§›˜8¯†’’‚.
+Ssquid:S1066­"/Merge this if statement with the enclosing one.(ëËòüøÿÿÿÿ8¯†’’‚.
+\squid:UnusedPrivateMethodÎ"0Remove this unused private "deleteImage" method.(Ò±ƒf8åâƒÌ‚.
+Nsquid:S2093¼"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¯†’’‚.
+jsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(¯ýß¯8¯†’’‚.
+`squid:S2259Í"BA "NullPointerException" could be thrown; "data" is nullable here.(²•—r8¯†’’‚.
+jsquid:UselessImportCheck"ARemove this unused import 'android.media.MediaScannerConnection'.(•ûîýúÿÿÿÿ
+osquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(ã·Óöýÿÿÿÿ8¯†’’‚.
+osquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(ï–ßðøÿÿÿÿ8åâƒÌ‚.
+Zsquid:UselessImportCheck("6Remove this unused import 'android.provider.Settings'.(Š¯„
+:squid:S3626à"Remove this redundant jump.(ûÁÝ…8¯†’’‚.
+msquid:S4042Ã"IUse "java.nio.Files#delete" here for better messages on error conditions.(‘Œ¼ÿþÿÿÿÿ8¯†’’‚.
+isquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(ò¥’Ž8¯†’’‚.
+nsquid:S00100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ïè8¯†’’‚.
+hsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+Qsquid:S1172"-Remove this unused method parameter "bitmap".(Ý©­‡ûÿÿÿÿ8åâƒÌ‚.
+esquid:UselessImportCheck"<Remove this unused import 'android.app.NotificationManager'.(¸˜ùÑûÿÿÿÿ
+esquid:UselessImportCheck"ARemove this unused import 'androidx.core.app.NotificationCompat'.(œéÔã
+fsquid:S2095¾"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ºœíÒ
+jsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(¾±ø®8¯†’’‚.
+^
+squid:S899Ã";Do something with the "boolean" value returned by "delete".(‘Œ¼ÿþÿÿÿÿ8¯†’’‚.
+jsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(ç¥áÐ8¯†’’‚.
+osquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¯†’’‚.
+ysquid:S1192Q"VDefine a constant instead of duplicating this literal "last_taken_photo_date" 3 times.(¸§Âšþÿÿÿÿ8åâƒÌ‚.
+Gsquid:S1148Ö"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¯†’’‚.
+jsquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(Ú°à¬8¯†’’‚.
+lsquid:S2095½"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¶£„¬8¯†’’‚.
+qsquid:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(µè¸î8¯†’’‚.
+[squid:UselessImportCheck+"2Remove this unused import 'android.widget.Button'.(²òžýÿÿÿÿ
+jsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(¯ýß¯8åâƒÌ‚.
+esquid:UselessImportCheck"<Remove this unused import 'android.app.NotificationChannel'.(ÒÒ…·ýÿÿÿÿ
+osquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(†ïÆóúÿÿÿÿ8¯†’’‚.
+jsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(«ø™Ï8åâƒÌ‚.
+jsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(©õ¸‡8¯†’’‚.
+jsquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÌ¶á
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ô‹Ç¢8¯†’’‚.
+jsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(œ˜þ×8¯†’’‚.
+nsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(öó¹ üÿÿÿÿ8¯†’’‚.
+gsquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(ÉÃ§¹ûÿÿÿÿ
+isquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(Œï¡8¯†’’‚.
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¯†’’‚.
+jsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(øŒÎ8åâƒÌ‚.
+Vsquid:S1854›"7Remove this useless assignment to local variable "fos".(ý¢á…8åâƒÌ‚.
+qsquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ïè8¯†’’‚.
+qsquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ïè8¯†’’‚.
+osquid:S1301Ú"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8¯†’’‚.
+ksquid:HiddenFieldCheck‘"<Rename "imageUri" which hides the field declared at line 66.(Ý£ŒÎùÿÿÿÿ8åâƒÌ‚.
+Lsquid:S1481"(Remove this unused "fos" local variable.(„Åûáüÿÿÿÿ8åâƒÌ‚.
+nsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(ÌËÂúúÿÿÿÿ8¯†’’‚.
+nsquid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.(ÌËÂúúÿÿÿÿ8¯†’’‚.
+osquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(ñõäœþÿÿÿÿ8¯†’’‚.
+isquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(Œï¡8¯†’’‚.
+nsquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(öó¹ üÿÿÿÿ8¯†’’‚.
+:squid:S3626Ñ"Remove this redundant jump.(ûÁÝ…8¯†’’‚.
+jsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(¾±ø®8¯†’’‚.
+jsquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(–¬Ûé8¯†’’‚.
+Msquid:S1481Ý"/Remove this unused "projection" local variable.(Èîæ\8åâƒÌ‚.
+Zsquid:UselessImportCheck"6Remove this unused import 'android.app.PendingIntent'.(šºÞ—

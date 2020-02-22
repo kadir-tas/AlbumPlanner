@@ -1,0 +1,41 @@
+
+Lsquid:S1068-"5Remove this unused "mCurrentPhotoPath" private field.(âÊŒ”
+csquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(œ˜ş×
+hsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(†ïÆóúÿÿÿÿ
+hsquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(É³¿®üÿÿÿÿ
+hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+Tsquid:S1854="8Remove this useless assignment to local variable "sayi".(µÆÏùÿÿÿÿ
+Lsquid:S1854D"5Remove this useless assignment to local variable "v".(˜Ú»å
+Ssquid:S1854è";Remove this useless assignment to local variable "gallery".(Å¼ú®
+csquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(ÙÀà
+hsquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(¶¼Š÷üÿÿÿÿ
+csquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(ö®˜ï
+Ksquid:S1066k"/Merge this if statement with the enclosing one.(íàûÿÿÿÿ
+Dsquid:S1481è",Remove this unused "gallery" local variable.(Å¼ú®
+Bsquid:S1481B"&Remove this unused "u" local variable.(Ö‡¼‘üÿÿÿÿ
+Vsquid:S1854@":Remove this useless assignment to local variable "kelime".(òÆ¨ãúÿÿÿÿ
+hsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+bsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(æÛáC
+^squid:UselessImportCheck"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ
+csquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(–¬Ûé
+csquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(Ú°à¬
+=squid:S1481>"&Remove this unused "b" local variable.(²õ™Æ
+hsquid:S2259œ"QA "NullPointerException" could be thrown; "notificationManager" is nullable here.(‹¾¨b
+Lsquid:S1854E"5Remove this useless assignment to local variable "x".(ßöú‹
+Vsquid:UselessImportCheck"-Remove this unused import 'android.Manifest'.(¦øïúÿÿÿÿ
+Bsquid:S1481?"&Remove this unused "d" local variable.(öÜ®ÿûÿÿÿÿ
+[squid:UselessImportCheck"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ
+Qsquid:S1854B"5Remove this useless assignment to local variable "u".(Ö‡¼‘üÿÿÿÿ
+=squid:S1481C"&Remove this unused "z" local variable.(£’÷Ä
+=squid:S1481D"&Remove this unused "v" local variable.(˜Ú»å
+[squid:UnusedPrivateMethodç"0Remove this unused private "openGallery" method.(Šû£Êùÿÿÿÿ
+nsquid:S2259š"QA "NullPointerException" could be thrown; "notificationManager" is nullable here.(÷ƒûüÿÿÿÿ
+Esquid:S1481=")Remove this unused "sayi" local variable.(µÆÏùÿÿÿÿ
+hsquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(îÃşÜøÿÿÿÿ
+=squid:S1481A"&Remove this unused "a" local variable.(Ùƒäİ
+=squid:S1481E"&Remove this unused "x" local variable.(ßöú‹
+Tsquid:S1068("8Remove this unused "IMAGE_DIRECTORY_NAME" private field.(ºÅÓ€ıÿÿÿÿ
+hsquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(Ëö„ÿÿÿÿÿ
+Lsquid:S1854C"5Remove this useless assignment to local variable "z".(£’÷Ä
+Gsquid:S1481@"+Remove this unused "kelime" local variable.(òÆ¨ãúÿÿÿÿ
+Lsquid:S1854A"5Remove this useless assignment to local variable "a".(Ùƒäİ
